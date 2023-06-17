@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main className='overflow-hidden'>
     <Hero />
-    <Hero2 />    
+    {/* <Hero2 />     */}
 
     </main>
   )
