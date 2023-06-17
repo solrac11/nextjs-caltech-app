@@ -21,7 +21,7 @@ const Hero2 = () => {
         </h1>
 
         <p className="hero__subtitle">
-          Harness the abundant power of the sun to provide clean and sustainable energy solutions.
+          {/* Harness the abundant power of the sun to provide clean and sustainable energy solutions. */}
         </p>
 
         {/* <CustomButton
